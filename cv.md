@@ -17,10 +17,12 @@ In my free time I like to surf the Internet, searching for some useful informati
 + Git, Github
 + Adobe programs (Illustrator, Premiere pro)
 ---
+## projects
+[CV](https://vbelkax.github.io/rsschool-cv/cv)
+---
 ## Courses
 = IT academy
 = Skillbox
-= JS (learnjavascript)
 ---
 ## Languages
 = Russian (native speaker)
