@@ -3,7 +3,7 @@
 ## Contact
 * phone: +375441234567
 * email: veron@gmail.com
-* telegram: vbelkax
+* discord: vbelkax
 * location: Minsk, Belarus
 ---
 ## About me
@@ -20,7 +20,7 @@ In my free time I like to surf the Internet, searching for some useful informati
 ## Courses
 = IT academy
 = Skillbox
-= JS (learngavascript)
+= JS (learnjavascript)
 ---
 ## Languages
 = Russian (native speaker)
