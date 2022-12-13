@@ -21,10 +21,10 @@ In my free time I like to surf the Internet, searching for some useful informati
 [CV](https://vbelkax.github.io/rsschool-cv/cv)
 
 ## Courses
-= IT academy
-= Skillbox
++ IT academy
++ Skillbox
 
 ## Languages
-= Russian (native speaker)
-= Belarusian (intermediate)
-= English (pre-intermediate). I usually communicate with my foreign colleagues at monthly calls and by conducting a business corresponding.
++ Russian (native speaker)
++ Belarusian (intermediate)
++ English (pre-intermediate). I usually communicate with my foreign colleagues at monthly calls and by conducting a business corresponding.
